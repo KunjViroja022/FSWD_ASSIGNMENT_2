@@ -1,4 +1,3 @@
-// appointmentScheduler.js
 const appointments = [
     { clientName: "Kunj", time: new Date("2025-02-03T10:30:00"), service: "Meet-up" },
     { clientName: "Dhruvam", time: new Date("2025-02-03T10:20:00"), service: "Meet-up" },
