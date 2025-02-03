@@ -1,4 +1,3 @@
-// studyPlanner.js
 const sessions = [
     {topic:"Phy",sessionTime:'2025-02-03T10:06:00',duration:60},
     {topic:"Chem",sessionTime:'2025-02-03T12:00:00',duration:50},
