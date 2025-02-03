@@ -1,4 +1,3 @@
-// expenseTracker.js
 const expenses = [{desc:"Decorative Items",amt:150.5,date:"2025-02-02"},
     {desc:"Videogames",amt:150.5,date:"2025-02-02"},
     {desc:"Cloths",amt:150.5,date:"2025-02-02"}
